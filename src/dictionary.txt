@@ -1,0 +1,13 @@
+12
+this
+is
+your
+dictionary
+you
+must
+copy
+each
+word
+on
+one
+line
